@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#644017</color>
+    <color name="colorPrimaryDark">#d0644017</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--STARTS HERE BUTTON COLOR-->
+    <color name="BtnColorNumber">#e6a448</color>
+    <color name="BtnColorFamily">#d344b440</color>
+    <color name="BtnColor_Colors">#e3b83fca</color>
+    <color name="BtnColorPhrases">#d432dcba</color>
+    <!--ENDS HERE BUTTON COLOR-->
+
+    <!--START TEXT COLOR-->
+    <color name="TextColorNumber">#ffffff</color>
+    <color name="Heading_Itaukei">#000000</color>
+    <!--Start ENDS TEXT COLOR-->
+
+    <!--Background color -->
+    <color name="cat_numbers">#a8fd8e09</color>
+    <color name="cat_family">#d52d8f22</color>
+    <color name="cat_phrases">#a826cab2</color>
+    <color name="cat_colors">#b9b759d1</color>
+
+    <color name="bckground">#FFF7DA</color>
+    <!--END Background color -->
+</resources>
