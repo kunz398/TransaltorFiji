@@ -1,4 +1,4 @@
-The Translation app is made on the concept of recycle views and Googles  TextToSpeech API
+The Translation app is made on the concept of recycle views and Googles  TextToSpeech API which is activated when the play button (⏯) is pressed 
 
 > Number
 
